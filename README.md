@@ -8,7 +8,7 @@ DeepUnionは大量のキャラクターを操作して、タスクマネジメ�
 タスク割当: 左クリック長押し  
 キャラクター回収: 右クリック長押し  
 
-[ダウンロードリンク](https://github.com/harumas/deep_union/releases/download/v1.0/DeepUnion.zip)
+[ダウンロードリンク](https://github.com/harumas/deep_union/releases/download/v1.2/DeepUnion.zip)
 
 <img width="958" alt="image" src="https://github.com/harumas/deep_union/assets/43531665/c1cd99a8-f9f8-4455-b99a-f1c07bfec845">
 <img width="960" alt="image" src="https://github.com/harumas/deep_union/assets/43531665/c89351e1-8fff-428c-82a1-3ed822ca03b2">
